@@ -1,3 +1,4 @@
+
 <?php
 include "koneksi.php";
 
@@ -10,5 +11,4 @@ if($query){
 }else {
     header("location:index.php?hapus=gagal");
 }
-
 ?>

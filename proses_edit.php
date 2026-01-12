@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 include "koneksi.php";
 
@@ -16,3 +17,4 @@ if($query){
 } else {
     echo "Gagal update: " . mysqli_error($koneksi);
 }
+?>

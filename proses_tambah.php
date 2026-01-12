@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 include "koneksi.php";
 
@@ -16,6 +17,4 @@ if ($query) {
 }else {
     header ("location:index.php?simpan=gagal");
 }
-
-
 ?>
